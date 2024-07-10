@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    soy un programador junior con buenas bases de programacion, actualmente tengo 20 años de edad, responsable, me gusta trabajar en equipo para dar un buen ambiente, 
+    soy un programador junior con buenas bases de programacion, actualmente tengo 22 años de edad, responsable, me gusta trabajar en equipo para dar un buen ambiente, 
     tengo conocimiento en desarrollo web y movil.
     mi especialidad es el diseño movil y web, en mis tiempos libre me encanta la musica y ver series
   </em>  
